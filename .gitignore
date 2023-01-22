@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+custom
+data
+dataSep
+dataSepTest
+hugeX
+hugeXTest
+results
+models
